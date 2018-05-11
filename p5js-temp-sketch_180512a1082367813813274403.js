@@ -5,7 +5,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(700,543);
+  createCanvas(500,500);
   size=80;
   background(0);
   img1.loadPixels();
